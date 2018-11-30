@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "85c5cc718011a13782cf631f75c1511b",
+    "content-hash": "b5a715a20b31b170ee1ac83e1b80994f",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -4434,10 +4434,10 @@
         },
         {
             "name": "npm-asset/jquery-backstretch",
-            "version": "2.1.16",
+            "version": "2.1.17",
             "dist": {
                 "type": "tar",
-                "url": "https://registry.npmjs.org/jquery-backstretch/-/jquery-backstretch-2.1.16.tgz",
+                "url": "https://registry.npmjs.org/jquery-backstretch/-/jquery-backstretch-2.1.17.tgz",
                 "reference": null,
                 "shasum": null
             },
